@@ -1,0 +1,29 @@
+*{
+    font-family: 'Fira Sans Condensed', sans-serif;
+    border-collapse: collapse;
+    
+}
+
+td,th{
+    border: 2px  solid black;
+    padding: 7px 20px;
+    text-align: left;
+   
+    
+}
+
+.spalvinu{
+    background-color: orange;
+    color: white;
+}
+
+.melynai{
+    background-color: rgb(96, 68, 252);
+    color: white;
+}
+
+.zaliai{
+    background-color: rgb(40, 168, 29);
+    color: white;
+}
+
